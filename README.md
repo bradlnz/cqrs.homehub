@@ -1,5 +1,5 @@
 # Getting Started
-Welcome to aXmos the new way to manage your connected home devices
+Welcome to CQRS Homehub the new way to manage your connected home devices
 
 ### Design Patterns
 The following design patterns were used:
